@@ -53,13 +53,13 @@
 - 🎣​ **Pescando** → A **habit management and learning tracker app**, currently in development.  
 
 
-## 🌱 Currently Learning
+## 🤓 Currently Learning
 - Improving my **frontend skills** (React ecosystem, UI/UX best practices)  
 - **Software engineering fundamentals**  
 - Exploring with caution (😅) **backend development** with Node.js and Express   
 
 
-## 🤓​ Let’s Connect
+## 🤝​​ Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustina%20Insfran-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/agustina-insfran)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:agusinsfran08@gmail.com)
